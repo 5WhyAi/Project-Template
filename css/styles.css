@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Open+Sans&family=Roboto&family=Roboto+Condensed&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f0f4f8;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #333;
+    text-align: center;
+    margin-top: 50px;
+}
+
+p, ul {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    color: #555;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background: #e0e4e8;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    color: #333;
+}
+
+a {
+    font-family: 'Lato', sans-serif;
+    display: block;
+    width: 200px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: #45a049;
+}
