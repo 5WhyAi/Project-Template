@@ -2,9 +2,26 @@
 
 ## Overview
 
+<<<<<<< Updated upstream
 Welcome to the L&J Global Solutions: Corporate Infrastructure repository. This repository contains a comprehensive set of documents, templates, and guides designed to streamline operations and provide innovative solutions for our organization and its operating companies.
 
 ## Contents
+=======
+## Folder Structure
+- The files below are not in subfolders, they are in the main repository folder
+Index.html
+Readme.md
+.gitignore
+
+
+#Subfolders
+- `docs/` - Documentation and guides
+- `html/` - HTML files
+- `css/` - Stylesheets
+- `js/` - JavaScript files
+- 'images/' - SVGs/PNG/JPEG
+
+>>>>>>> Stashed changes
 
 ### Corporate AI Structure
 - [AI Plan Overview](../html/AI%20Plan%20Overview.html)
