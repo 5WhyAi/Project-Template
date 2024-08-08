@@ -3,11 +3,19 @@
 This repository serves as a template for setting up new projects. Follow the folder structure to maintain consistency and organization.
 
 ## Folder Structure
+- The files below are not in subfolders, they are in the main repository folder
+Index.html
+Readme.md
+.gitignore
 
+
+#Subfolders
 - `docs/` - Documentation and guides
 - `html/` - HTML files
 - `css/` - Stylesheets
 - `js/` - JavaScript files
+- 'images/' - SVGs/PNG/JPEG
+
 
 ### Folder and File Naming Conventions
 
